@@ -20,8 +20,12 @@ for char in sentence:
     else:
         encrypted_sentence += char
 
+<<<<<<< HEAD
 print('Encrypted message:', encrypted_sentence)    
 
 
     
     
+=======
+print('Encrypted message:', encrypted_sentence)  # add your code here
+>>>>>>> bf56e26f35f83f37f6ee5ce0880e55c664cc7ea9
